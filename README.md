@@ -15,4 +15,4 @@ transcripts with two isoforms (gtfs/two_isoforms.gtf). Note - this script assume
 each file in your fastqs directory. Note, this script assumes your data is paired end reads. 
 
 At the end of this pipeline, you will have a gtf file containing transcripts from genes with two isoforms and Kallisto 
-abundance estimates from your RNA-seq files in quant_results. 
+abundance estimates from your RNA-seq files in quant_results. You can generate the single cell abundance estimates following the instruction at (insert link to benchmark github).
