@@ -1,6 +1,6 @@
 # Benchmark_paper_isoforms
 Repository with instructions for quantifying the bulk RNA-seq data used in the final section of the results. Additionally,
-a gtf file containing transcripts from genes with exactly two isoforms is generated.
+a gtf file containing transcripts from genes with exactly two isoforms is generated. After cloning the repository and cd'ing into it:
 
 1. Execute mkdir gtfs; mkdir fastqs, mkdir quant_results
 
